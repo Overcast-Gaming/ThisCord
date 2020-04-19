@@ -1,0 +1,8 @@
+{
+  "token": "lolnoimnotdumb",
+  "prefix": "$",
+  "statuslist": {
+    "play": "in ${serverCount} servers!",
+    "stream": "your songs!",
+    "watch": "for $help"
+}
